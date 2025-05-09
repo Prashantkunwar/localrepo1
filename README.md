@@ -11,3 +11,5 @@ git checkout -b <-new branch name- > (to create a new branch)
 git branch -d <-branch name to delete>  (to delete a branch )
 
 git pull origin main : used to fetch amd download content from a remote repo and immediately update the local repo to match that content
+
+Resolving Merge Conflict 
